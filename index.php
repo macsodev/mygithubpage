@@ -1,3 +1,3 @@
 <?php
-echo 'Hello Teszt! asd123';
+echo 'Hello Teszt! asd123 new';
 ?>
